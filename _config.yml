@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://github.com/aneesv
 
-url: https://aneesv.me
+url: http://aneesv.me
 # your url: http://aneesv.github.io
 
 permalink: /:title/
