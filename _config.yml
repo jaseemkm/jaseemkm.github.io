@@ -1,9 +1,9 @@
 # main text of home
-name: Mohammed Anees v
-bio: Founder @ Appmaker.xyz
+name: Jaseem KM
+bio: Product Engineer @ Entri.app
 
 # twitter summary info
-description: Anees v personal website
+description: Jaseem KM personal website
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,10 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: false
 resume-external: true
-resume-url: https://github.com/aneesv
+resume-url: https://github.com/jaseemkm
 
-url: http://aneesv.me
-# your url: http://aneesv.github.io
+url: https://jaseemkm.github.io/
 
 permalink: /:title/
 
@@ -34,23 +33,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: mohdaneesv
-twitter: aneesv
+facebook: jaseemkm2
+twitter: jaseemkm
 # google: mygoogle
-# instagram: myinstagram
+instagram: jaseem_km
 # pinterest: mypinterest
-linkedin: aneesv
+linkedin: jaseemkm
 # youtube: myyoutube
 # spotify: myspotify
-github: aneesv
+github: jaseemkm
 # lastfm: mylastfm
-stackoverflow: 7044681/mystackoverflow
-quora: Mohammed-Anees-V
-reddit: aneesv
-medium: Aneesv
+# stackoverflow: 7044681/mystackoverflow
+# quora: Mohammed-Anees-V
+# reddit: aneesv
+# medium: Aneesv
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: mail@aneesv.me
+email: jaseem@live.in
 
 authors:
 #    johndoe:
