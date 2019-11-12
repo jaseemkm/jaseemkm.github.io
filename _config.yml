@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
-resume-url: https://github.com/jaseemkm
+resume-url: https://raw.githubusercontent.com/jaseemkm/jaseemkm.github.io/master/resume.pdf
 
 url: https://jaseemkm.github.io/
 
@@ -49,7 +49,7 @@ github: jaseemkm
 # medium: jaseemkm
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: jaseem@live.in
+email: napsterjaseem@gmail.com
 
 authors:
 #    johndoe:
