@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garden_tags on Jaseem KM</title>
+    <link>https://jaseem.dev/garden_tags/</link>
+    <description>Recent content in Garden_tags on Jaseem KM</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © Jaseem KM</copyright>
+    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jaseem.dev/garden_tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://jaseem.dev/garden_tags/hugo/</link>
+      <pubDate>Sun, 03 Nov 2024 16:46:32 +0530</pubDate>
+      <guid>https://jaseem.dev/garden_tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>https://jaseem.dev/garden_tags/personal/</link>
+      <pubDate>Sun, 03 Nov 2024 16:46:32 +0530</pubDate>
+      <guid>https://jaseem.dev/garden_tags/personal/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
